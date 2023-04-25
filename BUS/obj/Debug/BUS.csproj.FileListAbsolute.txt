@@ -1,0 +1,33 @@
+D:\CODE\CNPM\LT\thuexetudong\BUS\bin\Debug\BUS.dll
+D:\CODE\CNPM\LT\thuexetudong\BUS\bin\Debug\BUS.pdb
+D:\CODE\CNPM\LT\thuexetudong\BUS\bin\Debug\DAL.dll
+D:\CODE\CNPM\LT\thuexetudong\BUS\bin\Debug\DTO.dll
+D:\CODE\CNPM\LT\thuexetudong\BUS\bin\Debug\DAL.pdb
+D:\CODE\CNPM\LT\thuexetudong\BUS\bin\Debug\DTO.pdb
+D:\CODE\CNPM\LT\thuexetudong\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\CODE\CNPM\LT\thuexetudong\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\CODE\CNPM\LT\thuexetudong\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\CODE\CNPM\LT\thuexetudong\BUS\obj\Debug\BUS.dll
+D:\CODE\CNPM\LT\thuexetudong\BUS\obj\Debug\BUS.pdb
+D:\Workspace\School\Software Engineering\final\thuexetudong\BUS\bin\Debug\BUS.dll
+D:\Workspace\School\Software Engineering\final\thuexetudong\BUS\bin\Debug\BUS.pdb
+D:\Workspace\School\Software Engineering\final\thuexetudong\BUS\bin\Debug\DAL.dll
+D:\Workspace\School\Software Engineering\final\thuexetudong\BUS\bin\Debug\DTO.dll
+D:\Workspace\School\Software Engineering\final\thuexetudong\BUS\bin\Debug\DAL.pdb
+D:\Workspace\School\Software Engineering\final\thuexetudong\BUS\bin\Debug\DTO.pdb
+D:\Workspace\School\Software Engineering\final\thuexetudong\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Workspace\School\Software Engineering\final\thuexetudong\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Workspace\School\Software Engineering\final\thuexetudong\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Workspace\School\Software Engineering\final\thuexetudong\BUS\obj\Debug\BUS.dll
+D:\Workspace\School\Software Engineering\final\thuexetudong\BUS\obj\Debug\BUS.pdb
+D:\CODE\CNPM\thuexetudong\BUS\bin\Debug\BUS.dll
+D:\CODE\CNPM\thuexetudong\BUS\bin\Debug\BUS.pdb
+D:\CODE\CNPM\thuexetudong\BUS\bin\Debug\DAL.dll
+D:\CODE\CNPM\thuexetudong\BUS\bin\Debug\DTO.dll
+D:\CODE\CNPM\thuexetudong\BUS\bin\Debug\DAL.pdb
+D:\CODE\CNPM\thuexetudong\BUS\bin\Debug\DTO.pdb
+D:\CODE\CNPM\thuexetudong\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\CODE\CNPM\thuexetudong\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\CODE\CNPM\thuexetudong\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\CODE\CNPM\thuexetudong\BUS\obj\Debug\BUS.dll
+D:\CODE\CNPM\thuexetudong\BUS\obj\Debug\BUS.pdb

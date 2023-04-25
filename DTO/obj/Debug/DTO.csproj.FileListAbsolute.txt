@@ -1,0 +1,12 @@
+D:\CODE\CNPM\LT\thuexetudong\DTO\bin\Debug\DTO.dll
+D:\CODE\CNPM\LT\thuexetudong\DTO\bin\Debug\DTO.pdb
+D:\CODE\CNPM\LT\thuexetudong\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\CODE\CNPM\LT\thuexetudong\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\CODE\CNPM\LT\thuexetudong\DTO\obj\Debug\DTO.dll
+D:\CODE\CNPM\LT\thuexetudong\DTO\obj\Debug\DTO.pdb
+D:\CODE\CNPM\thuexetudong\DTO\bin\Debug\DTO.dll
+D:\CODE\CNPM\thuexetudong\DTO\bin\Debug\DTO.pdb
+D:\CODE\CNPM\thuexetudong\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\CODE\CNPM\thuexetudong\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\CODE\CNPM\thuexetudong\DTO\obj\Debug\DTO.dll
+D:\CODE\CNPM\thuexetudong\DTO\obj\Debug\DTO.pdb
